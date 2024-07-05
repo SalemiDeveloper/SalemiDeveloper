@@ -14,7 +14,7 @@ Busco estágio para ingressar no mercado de trabalho para adquirir experiência 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=sql&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-000?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 
 ## GitHub Stats
 ![Salemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemiDeveloper&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff&hide_title=true&hide=stars)
