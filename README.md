@@ -1,7 +1,7 @@
 # Pedro Salemi
 👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas cursando o 5° período na FAETERJ - Rio de Janeiro, Brasil.
 
-Busco estágio para ingressar no mercado de trabalho para adquirir experiência e aprendizado, desenvolver e por em prática minhas habilidades para crescer tanto pessoalmente quanto profissionalmente
+Estagiário de desenvolvimento Back-end PHP e SQL. Não me prendo as tecnologias que utilizo no dia a dia, quero sempre aprender mais.
 
 ## Conecte-se comigo
 
