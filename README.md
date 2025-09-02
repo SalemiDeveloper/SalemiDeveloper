@@ -1,7 +1,7 @@
 # Pedro Salemi
-👨🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas cursando o 5° período na FAETERJ - Rio de Janeiro, Brasil.
+👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela FAETERJ - Rio de Janeiro, Brasil.
 
-Estagiário de desenvolvimento Back-end PHP e SQL. Não me prendo as tecnologias que utilizo no dia a dia, quero sempre aprender mais.
+Desenvolvedor Trainee Full-Stack. Não me prendo as tecnologias que utilizo no dia a dia, quero sempre aprender mais.
 
 ## Conecte-se comigo
 
