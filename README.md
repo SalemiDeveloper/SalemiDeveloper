@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro Salemi
 
-💻 **Full Stack Developer**, com foco em **PHP, APIs REST e arquitetura backend**.
+💻 **Full Stack Developer** - **Bakcend: PHP | APIs REST | Arquitetura ** - **Mobile: TypeScript e React-Native **.
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **FAETERJ - Rio de Janeiro, Brasil**.
 
