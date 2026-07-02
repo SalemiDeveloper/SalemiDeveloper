@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro Salemi
+# Pedro Salemi
 
 💻 **Full Stack Developer** - **Bakcend: PHP | APIs REST | Arquitetura** - **Mobile: TypeScript e React-Native**.
 
