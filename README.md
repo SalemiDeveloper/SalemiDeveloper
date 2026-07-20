@@ -4,7 +4,7 @@
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **FAETERJ - Rio de Janeiro, Brasil**.
 
-Tenho interesse em desenvolvimento backend, consumo e criação de APIs, arquitetura de software e construção de aplicações completas. Busco constantemente aprender novas tecnologias e evoluir através de projetos práticos.
+Atuo em desenvolvimento backend, consumo e criação de APIs, arquitetura de software e construção de aplicações completas. Busco constantemente aprender novas tecnologias e evoluir através de projetos práticos.
 
 ---
 
