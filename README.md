@@ -22,7 +22,7 @@ Atuo em desenvolvimento backend, consumo e criação de APIs, arquitetura de sof
 ![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Conhecimentos
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-000?style=for-the-badge&logoColor=white)
