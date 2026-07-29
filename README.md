@@ -1,6 +1,6 @@
 # Pedro Salemi
 
-💻 **Full Stack Developer** - **Bakcend: PHP | APIs REST | Arquitetura** - **Mobile: TypeScript e React-Native**.
+💻 **Full Stack Developer** - **Bakcend**: PHP | APIs REST | Arquitetura - **Mobile**: TypeScript e React-Native.
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **FAETERJ - Rio de Janeiro, Brasil**.
 
